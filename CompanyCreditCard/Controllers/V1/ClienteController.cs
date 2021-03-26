@@ -32,7 +32,6 @@ namespace CompanyCreditCard.Controllers.V1
         [HttpPost("cadastrar")]
         public async Task<IActionResult> CadastrarCliente()
         {
-
             return Response();
         }
     }
