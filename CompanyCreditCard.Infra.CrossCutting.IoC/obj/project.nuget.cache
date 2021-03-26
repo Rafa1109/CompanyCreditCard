@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+aTviYWkfn5273DmYiwwO86XUIbtEoTmG55DsrNzbqG9zt+oP93VJVG9lX+S4sIcO5ilY5TXBrAZQu4+hlr+A==",
+  "success": true,
+  "projectFilePath": "C:\\EstudoC#\\CompanyCreditCard\\CompanyCreditCard.Infra.CrossCutting.IoC\\CompanyCreditCard.Infra.CrossCutting.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

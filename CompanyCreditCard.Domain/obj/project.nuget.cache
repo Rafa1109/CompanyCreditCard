@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMJoSEz73HlMYz/f1fF9y4fqp7EVAIjQ8HhrkxpvfO+4ed69kCzyjoLKhqJnQ4kv0Gch8vbuGYD2VzGUEsn9IA==",
+  "success": true,
+  "projectFilePath": "C:\\EstudoC#\\CompanyCreditCard\\CompanyCreditCard.Domain\\CompanyCreditCard.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
